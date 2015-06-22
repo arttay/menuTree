@@ -1,0 +1,78 @@
+
+
+{
+
+	"games": [{
+		"name": "wow"
+	}, {
+		"name": "starcraft"
+	}, {
+		"name": "diablo"
+	}, {
+		"name": "hearthstone"
+	}, {
+		"name": "heros of the storm"
+	}],
+
+	"community" : {
+		"name": "community"
+	},
+
+	"media": [{
+		"name": "savage media"
+	}, {
+		"name": "#thedarkbelow"
+	}, {
+		"name": "overwatch"
+	}, {
+		"name": "corgies"
+	}, {
+		"name": "curse of naxxramas"
+	}],
+
+	"forums": [
+		{
+			"name":"gameplay"
+		}, {
+			"name": "classes",
+			"submenu": [
+				{
+					"name": "barb"
+				}, {
+					"name": "demon hunter"
+				}, {
+					"name": "monk"
+				}, {
+					"name": "doc ops"
+				}, {
+					"name": "wizard"
+				}, {
+					"name": "crusader"
+				}
+			]
+		}, {
+			"name": "beta",
+			"submenu": [
+				{
+					"name": "beta"
+				}, {
+					"name": "beta2"
+				}
+			]
+		}, {
+			"name": "support"
+		}
+
+	],
+	"services": [
+		{
+			"name": "services1"
+		}, {
+			"name": "services2"
+		}, {
+			"name": "services3"
+		}, {
+			"name": "services4"
+		}
+	]
+}
